@@ -2,7 +2,7 @@ some_number = range(45,211)
 for number in some_number:
     if number == 100:
         continue
-    if number == 206:
+    if number == 205:
         break
     print(number)
 
